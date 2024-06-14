@@ -1,0 +1,17 @@
+{
+  "name": "trabalho",
+  "version": "1.0.0",
+  "description": "trabalho js",
+  "main": "trabalho.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "author": "Bruno",
+  "license": "ISC",
+  "dependencies": {
+    "linebyline": "^1.3.0"
+  }
+}
